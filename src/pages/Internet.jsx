@@ -53,7 +53,7 @@ export default function Internet() {
 
         <div className="image-container">
           <img
-            src="public/caraKerjaInternet.png" 
+            src="/Tugas-Website-Statis/caraKerjaInternet.png" 
             alt="Cara Kerja Internet"
           />
           <p className="image-caption">Gambar: Cara Kerja Internet</p>

@@ -40,7 +40,7 @@ export default function Dns() {
 
         <div className="image-container">
           <img
-            src="public/caraKerjaDNS.png"
+            src="/Tugas-Website-Statis/caraKerjaDNS.png"
             alt="Cara Kerja DNS"
           />
           <p className="image-caption">Gambar: Ilustrasi Cara Kerja DNS</p>

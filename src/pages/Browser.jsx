@@ -35,10 +35,10 @@ export default function Browser() {
           <li>Server kemudian merespons dengan mengirimkan data konten dari situs tersebut, berupa file HTML, CSS, JavaScript, dan file pendukung lainnya.</li>
           <li>Terakhir, web browser menampilkan konten tersebut kepada pengguna sesuai dengan permintaan awal.</li>
         </ol>
-        
+
         <div className="image-container">
           <img
-            src="public/caraKerjaBrowser.png"
+            src="/Tugas-Website-Statis/caraKerjaBrowser.png"
             alt="Cara Kerja Browser"
           />
           <p className="image-caption">Gambar: Cara Kerja Browser</p>

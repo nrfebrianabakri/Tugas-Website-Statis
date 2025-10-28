@@ -65,7 +65,7 @@ export default function HttpHttps() {
 
       <div className="image-container">
         <img
-          src="public/ilustrasiHttpHttps.png"
+          src="/Tugas-Website-Statis/ilustrasiHttpHttps.png"
           alt="Ilustrasi HTTP & HTTPS"
         />
         <p className="image-caption">Gambar: Ilustrasi HTTP & HTTPS</p>

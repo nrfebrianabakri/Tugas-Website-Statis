@@ -36,7 +36,7 @@ export default function Domain() {
 
         <div className="image-container">
           <img
-            src="public/caraKerjaDomain.png"
+            src="/Tugas-Website-Statis/caraKerjaDomain.png"
             alt="Cara Kerja Domain"
           />
           <p className="image-caption">Gambar: Ilustrasi Cara Kerja Domain</p>

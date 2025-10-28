@@ -38,7 +38,7 @@ export default function Hosting() {
 
         <div className="image-container">
           <img
-            src="public/caraKerjaHosting.png"
+            src="/Tugas-Website-Statis/caraKerjaHosting.png"
             alt="Cara Kerja Hosting"
           />
           <p className="image-caption">Gambar: Ilustrasi Cara Kerja Hosting</p>
