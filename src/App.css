@@ -125,8 +125,9 @@ body {
 }
 
 .image-container img {
-  width: 700px;         
-  height: auto;         
+  width: 100%;         
+  max-width: 700px;    
+  height: auto;        
   border: 1px solid #ccc;
   padding: 5px;
   border-radius: 20px;
@@ -149,50 +150,4 @@ body {
 .page-section li {
   margin-bottom: 8px; 
   line-height: 1.7;
-}
-
-/* RESPONSIVE */
-@media (max-width: 768px) {
-  /* Sembunyikan sidebar */
-  .sidebar {
-    display: none;
-  }
-
-  /* Content jadi full width */
-  .content {
-    margin-left: 0;
-    width: 100%;
-  }
-
-  /* Gambar responsive */
-  .image-container img {
-    width: 100%;   
-    max-width: 700px; 
-    height: auto;  
-  }
-
-  /* Header padding lebih kecil */
-  .header {
-    padding: 12px 20px;
-    font-size: 12px;
-  }
-
-  .main-content {
-    padding: 16px 20px;
-  }
-}
-
-/* Layar super kecil */
-@media (max-width: 480px) {
-  .page-title {
-    font-size: 20px;
-  }
-
-  .page-section h2 {
-    font-size: 18px;
-  }
-
-  .sidebar-logo {
-    font-size: 18px;
-  }
 }
